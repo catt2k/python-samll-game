@@ -25,7 +25,7 @@ mixer.music.play(-1)
 
 
 #create the PLayer
-playerImg = pygame.image.load('ship2.png')
+playerImg = pygame.image.load('ship.png')
 PLAYERX = 365
 PLAYERY = 500
 PLAYERX_CHANGE = 0
